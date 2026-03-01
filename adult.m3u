@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz,https://iptvx.one/EPG"
+&#EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz,https://iptvx.one/EPG"
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
@@ -5774,11 +5774,11 @@ https://tgwt32tsafa.s1q2105.com/hls2/YSSpW5YkKfsflGr0rzhhpTp9pEArkL/index_1280x7
 
 
 ##5KPorn
-#EXTINF:-1 group-title="欧美" tvg-logo="https://tour-cdn.5kporn.com/episodes/418/thumb_4/1280x720-4.jpg",[5KPorn] Novella Night (Deep in the Night!)
+#EXTINF:-1 group-title="欧美" tvg-logo="https://tour-cdn.5kporn.com/episodes/418/poster_image/2560x1440-1.jpg",[5KPorn] Novella Night (Deep in the Night!)
 
-#EXTINF:-1 group-title="欧美" tvg-logo="https://tour-cdn.5kporn.com/episodes/406/thumb_3/1280x720%201.jpg",[5KPorn] Maya Sinn (Mayas Deadly Sinn)
+#EXTINF:-1 group-title="欧美" tvg-logo="https://tour-cdn.5kporn.com/episodes/406/poster_image/2560x1440.jpg",[5KPorn] Maya Sinn (Mayas Deadly Sinn)
 
-#EXTINF:-1 group-title="欧美" tvg-logo="https://tour-cdn.5kporn.com/episodes/429/thumb_2/1280x720-2-n.jpg",[5KPorn] Nico Love (Lovin Nico!)
+#EXTINF:-1 group-title="欧美" tvg-logo="https://tour-cdn.5kporn.com/episodes/429/poster_image/2560x1440-1-n.jpg",[5Kporn] Nico Love (Lovin Nico!)
 https://2r90j1fn28.s1q2105.com/hls2/2McqtzbQHqANbRDjuUQZUsxRVi0Si4/index_1280x720.m3u8
 #EXTINF:-1 group-title="欧美" tvg-logo="",
 
