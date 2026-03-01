@@ -1,35 +1,35 @@
 #EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz,https://iptvx.one/EPG"
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="",香蕉台
+#EXTINF:-1 group-title="PRIVADO" tvg-logo="",香蕉台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456836" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",松視3台
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456836" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",松視3台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
 http://125.227.210.55:1009/VideoInput/play.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
+#EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
 http://125.227.210.55:1022/VideoInput/play.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台(125)
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台(125)
 http://125.227.210.55:3016/VideoInput/play.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="",Sex girl(125)
+#EXTINF:-1 group-title="PRIVADO" tvg-logo="",Sex girl(125)
 http://125.227.210.55:3031/VideoInput/play.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
+#EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
 http://125.227.210.55:3033/VideoInput/play.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456840" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jstar%20tv.jpg",極限電影台
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456840" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jstar%20tv.jpg",極限電影台
 http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
 http://z88.ubtvfans.com/live/rx3/2908/4c3e4b9e99716d8b7116e48bfb348363/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
 http://z88.ubtvfans.com/live/rx3/2930/f1b639cdb783636b957ca60e67a2c6b3/index.m3u8
 
 
-#EXTINF:-1 group-title="Adulto" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC5_logo_2025.svg.png",CARAC5（早7）
+#EXTINF:-1 group-title="ADULTO" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC5_logo_2025.svg.png",CARAC5（早7）
 https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-name="CARAC 1 HD" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC1_logo_2023.svg.png",CARAC1（早7）
 https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
@@ -564,7 +564,7 @@ https://edge19.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 
 
 【Video】
-#EXTINF:-1 group-title="国产" tvg-logo="https://public.swag.live/messages/5fd238f3586c4ec1306a7143/poster.jpg",SWAG 柔柔@elvababe NTR人妻的外遇日記，一次比一次更大膽的讓老公戴綠帽[顏射+口爆+內射]！
+#EXTINF:-1 group-title="ASIATICO" tvg-logo="https://public.swag.live/messages/5fd238f3586c4ec1306a7143/poster.jpg",SWAG 柔柔@elvababe NTR人妻的外遇日記，一次比一次更大膽的讓老公戴綠帽[顏射+口爆+內射]！
 https://pg2z7.cdnedge.live/file/avple-images/hls/61a80d2b7aac5d7ef57bda5a/playlist.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://public.swag.live/messages/5fdc4f64526456136e9e2df7/poster.jpg",SWAG 柔柔@elvababe JSBY-0056 首次出道 必解新人初登場‼️小隻馬女優大膽露臉性愛調教
 https://s6s6u.cdnedge.live/file/avple-images/hls/61a80d2c7aac5d7ef57bda5b/playlist.m3u8
@@ -2750,12 +2750,12 @@ https://hsm3.fhu3hh.com/20251021/N1TQSAeX/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="",
 
 
-【中字无码】
-#EXTINF:-1 group-title="中字无码" tvg-logo="https://www.heyzo.com/contents/3000/1703/images/player_thumbnail.jpg",HEYZO-1703 りんにイッパイぶちまけて！～3本連続でズボズボされちゃった～ - 天音りん
+【Uncensored】
+#EXTINF:-1 group-title="UNCENSORED" tvg-logo="https://www.heyzo.com/contents/3000/1703/images/player_thumbnail.jpg",HEYZO-1703 りんにイッパイぶちまけて！～3本連続でズボズボされちゃった～ - 天音りん
 https://surrit.com/6e2fa8a5-486f-46a3-a7bb-25bf07455371/1280x720/video.m3u8
-#EXTINF:-1 group-title="中字无码" tvg-logo="https://www.1pondo.tv/assets/sample/091618_744/str.jpg",091618_744 ノーブラの美ジョガーをナンパ天音りん
+#EXTINF:-1 group-title="UNCENSORED" tvg-logo="https://www.1pondo.tv/assets/sample/091618_744/str.jpg",091618_744 ノーブラの美ジョガーをナンパ天音りん
 https://surrit.com/d1b10d07-6ee8-422f-a2e3-3355d802320a/1280x720/video.m3u8
-#EXTINF:-1 group-title="中字无码" tvg-logo="",
+#EXTINF:-1 group-title="UNCENSORED" tvg-logo="",
 
 #EXTINF:-1 group-title="中字无码" tvg-logo="",
 
@@ -2774,8 +2774,8 @@ https://surrit.com/d1b10d07-6ee8-422f-a2e3-3355d802320a/1280x720/video.m3u8
 #EXTINF:-1 group-title="" tvg-logo="",
 
 
-【无码影片】
-#EXTINF:-1 group-title="无码影片" tvg-logo="https://www.h4610.com/moviepages/ori1506/images/movie.jpg",H4610-ori1506 鹿嶋 唯子
+【Sin Censura】
+#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.h4610.com/moviepages/ori1506/images/movie.jpg",H4610-ori1506 鹿嶋 唯子
 https://v.imgstream2.com/h/tofytpzlal/tofytpzlal.m3u8
 #EXTINF:-1 group-title="无码影片" tvg-logo="https://www.h4610.com/moviepages/ori1508/images/movie.jpg",H4610-ori1508 鹿嶋 唯子
 https://v.imgstream2.com/e/fyhhxwbnsu/fyhhxwbnsu.m3u8
@@ -2948,7 +2948,7 @@ https://surrit.com/40ae74b2-5577-4beb-bc20-d3ae447e1894/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码影片" tvg-logo="",
 
 
-【中字有码】
+【Censored】
 #EXTINF:-1 group-title="中字有码" tvg-logo="https://pics.dmm.co.jp/digital/video/hmn00520/hmn00520pl.jpg",HMN-520 昔、貧乳だとバカにしてきた同級生が入院してきたので、退院までの5日間生ハメさせても寸止め騎乗位でイキ我慢強●して中出しさせてあげないチ○ポいじめ痴女ナース 月野かすみ
 https://surrit.com/ba995adb-1e62-4073-a2d4-1efab1d83cc5/720p/video.m3u8
 #EXTINF:-1 group-title="中字有码" tvg-logo="https://pics.dmm.co.jp/digital/video/midv00383/midv00383pl.jpg",MIDV-383 私のフェラ、キミの奥さんよりすっごいよ？ ～新婚の部下に追撃フェラチオ女上司～ 新ありな
@@ -3130,8 +3130,8 @@ https://surrit.com/038d958b-77df-4515-8e07-43dba54c0747/1280x720/video.m3u8
 #EXTINF:-1 group-title="" tvg-logo="",
 
 
-【素人】
-#EXTINF:-1 group-title="素人" tvg-logo="",
+【Amateur】
+#EXTINF:-1 group-title="AMATEUR" tvg-logo="",
 
 #EXTINF:-1 group-title="素人" tvg-logo="",
 
@@ -3412,8 +3412,8 @@ https://surrit.com/1a312bcd-21f1-4486-a4d9-5a91f761949f/720p/video.m3u8
 #EXTINF:-1 group-title="" tvg-logo="",
 
 
-【日本有码】
-#EXTINF:-1 group-title="日本有码" tvg-logo="https://pics.dmm.co.jp/digital/video/1fns00181/1fns00181pl.jpg",FNS-181 同棲生活最後の日 セックスの相性抜群の元カノと最後にもう一度だけセックスしたらやっぱり相性良すぎてちょっとだけ仲直りできた…けど。 与田りん
+【Censura】
+#EXTINF:-1 group-title="CENSURA" tvg-logo="https://pics.dmm.co.jp/digital/video/1fns00181/1fns00181pl.jpg",FNS-181 同棲生活最後の日 セックスの相性抜群の元カノと最後にもう一度だけセックスしたらやっぱり相性良すぎてちょっとだけ仲直りできた…けど。 与田りん
 
 #EXTINF:-1 group-title="日本有码" tvg-logo="https://pics.dmm.co.jp/digital/video/1fns00142/1fns00142pl.jpg",FNS-142 どー考えても全くサイズが合っていない極少ビキニでおっぱい誘惑する海の家の逆ナンチ●ポ好きバイト 与田りん
 https://surrit.com/80898882-d917-4bb8-9a89-d70ed6696c05/720p/video.m3u8
@@ -4974,8 +4974,8 @@ https://surrit.com/fee104a4-1f53-4276-a720-0883a8cb400e/720p/video.m3u8
 #EXTINF:-1 group-title="" tvg-logo="",
 
 
-【欧美】
-#EXTINF:-1 group-title="欧美" tvg-logo="https://media-public-ht.project1content.com/m=eaSaaTbWx/c73/057/5e8/7e0/428/4a3/ca7/1f7/555/916/7b/poster/poster_01.jpg",[PublicAgent] Belle Ohara (Creampie for UK Student)
+【Porn】
+#EXTINF:-1 group-title="PORN" tvg-logo="https://media-public-ht.project1content.com/m=eaSaaTbWx/c73/057/5e8/7e0/428/4a3/ca7/1f7/555/916/7b/poster/poster_01.jpg",[PublicAgent] Belle Ohara (Creampie for UK Student)
 https://video.twimg.com/amplify_video/2016131875870314496/pl/P6FUL8E5dA-E1DHN.m3u8?tag=21
 #EXTINF:-1 group-title="欧美" tvg-logo="https://media-public-ht.project1content.com/m=eaSaaTbWx/0f6/f14/88f/814/4a1/6a7/c75/bc0/5c3/cfe/3c/poster/poster_01.jpg",[PublicAgent] Tabatha Lust (Tabatha’s Tasty Titties)
 https://vs27.userscontent.net/uls2/568/9027/b9a76b6921e6d25b03ac77af40c8hd4b.mp4/index-v1-a1.m3u8
